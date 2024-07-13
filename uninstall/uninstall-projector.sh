@@ -1,0 +1,1 @@
+pip uninstall projector-installer -y
