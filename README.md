@@ -14,3 +14,4 @@ Here's some predetermined script <--> cloud if you need it:
 | GitHub Codespaces | debian-based install script | Tested on 7/13/24 |
 | Gitpod | Errored out | default_factory error, tested 7/13/24 |
 | Coder | Depends on chosen OS | Not tested |
+| --- | --- |
