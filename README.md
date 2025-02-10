@@ -14,3 +14,8 @@ Here's some predetermined script <--> cloud if you need it:
 | GitHub Codespaces | debian-based install script | Tested on 7/13/24 |
 | Gitpod | Errored out | default_factory error, tested 7/13/24 |
 | Coder | Depends on chosen OS | Not tested |
+| CodeSandbox | csb-based install + modifying (see below) | Tested on 2/9/25 |
+
+
+## CodeSandbox
+I set up a "devbox" with it working [here](https://codesandbox.io/p/devbox/serene-tristan-kn7599) and you can see the csb-instructions.md file in this repo for a tutorial.
