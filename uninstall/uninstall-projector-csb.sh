@@ -1,0 +1,1 @@
+pipx uninstall projector-installer 
